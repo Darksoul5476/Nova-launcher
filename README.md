@@ -2,8 +2,6 @@
 
 A modern, feature-rich Minecraft launcher with full mod support.
 
-![Nova Launcher](icon.png)
-
 ## Features
 
 - 🎮 **Multiple Instances** - Create separate instances for different modpacks
