@@ -33,16 +33,6 @@
 | 💾 **Auto Java** | Automatically downloads the correct Java version |
 | 🖥️ **System Tray** | Hide to tray or quit with a custom dialog |
 | 🎨 **Custom Icons** | Custom system tray and taskbar icons |
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" alt="Home" width="400">
-  <img src="screenshots/instances.png" alt="Instances" width="400">
-</p>
-
 ---
 
 ## 📥 Download
