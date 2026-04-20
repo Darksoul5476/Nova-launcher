@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="src/renderer/icon.png" alt="Nova Launcher" width="128" height="128">
+</p>
+
+<h1 align="center">Nova Launcher</h1>
+
+<p align="center">
+  <strong>A modern, feature-rich Minecraft launcher with full mod support.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Darksoul5476/Nova-launcher/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Darksoul5476/Nova-launcher?color=blue&label=Latest%20Release" alt="Latest Release">
+  </a>
+  <a href="https://github.com/Darksoul5476/Nova-launcher/releases">
+    <img src="https://img.shields.io/github/downloads/Darksoul5476/Nova-launcher/total?color=green&label=Total%20Downloads" alt="Total Downloads">
+  </a>
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue" alt="Platforms">
+  <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License">
+</p>
+
+---
+
 ## ✨ Features
 
 | Category | Features |
