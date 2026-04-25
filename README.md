@@ -39,8 +39,8 @@
 
 | Platform | Download | Size |
 |----------|----------|------|
-| 🪟 **Windows** | [Nova-Launcher-Windows-v-1.0.2.zip]((https://github.com/Darksoul5476/Nova-launcher/releases/tag/v.1.0.2)) | ~337 MB |
-| 🐧 **Linux** | [Nova-Launcher-v1.0.2-linux.zip]((https://github.com/Darksoul5476/Nova-launcher/releases/tag/v1.0.2-linux)) | ~337 MB |
+| 🪟 **Windows** | [Nova-Launcher-Windows-v-1.0.2.zip](https://github.com/Darksoul5476/Nova-launcher/releases/tag/v.1.0.2) | ~337 MB |
+| 🐧 **Linux** | [Nova-Launcher-v1.0.2-linux.zip](https://github.com/Darksoul5476/Nova-launcher/releases/tag/v1.0.2-linux) | ~337 MB |
 
 ---
 
