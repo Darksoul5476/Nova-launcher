@@ -21,6 +21,33 @@
 
 ---
 
+## ⚠️ Disclaimer
+
+Nova Launcher is proprietary software. All rights reserved.
+
+**Third-Party Services:**
+- Nova Launcher is **not affiliated with, endorsed by, or sponsored by** Mojang Studios, Microsoft Corporation, Modrinth, CurseForge, MCPEDL, or any other third-party services.
+- **Minecraft** is a registered trademark of Mojang Studios/Microsoft Corporation.
+- **Modrinth** and **CurseForge** are independent mod hosting platforms.
+- **MCPEDL** is an independent Bedrock addon hosting platform.
+- All trademarks, service marks, and trade names are the property of their respective owners.
+
+**Usage:**
+- This software is provided "as is" without warranty of any kind.
+- The developer is not responsible for any damages or losses resulting from the use of this software.
+- Users are responsible for ensuring they comply with Minecraft's EULA and terms of service.
+- Downloaded mods, addons, and content from third-party sources are subject to their respective terms and conditions.
+
+**Privacy:**
+- Nova Launcher does not collect, store, or share any personal data.
+- Microsoft authentication tokens are stored locally on your device.
+- No analytics, telemetry, or tracking is implemented.
+
+**Copyright:**
+- Copyright © 2024 Darksoul5476. All rights reserved.
+- This software is **not open source**. Redistribution, modification, or reverse engineering is prohibited without explicit permission.
+
+---
 ## ✨ Features
 
 | Category | Features |
