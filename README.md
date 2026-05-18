@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Darksoul5476/Nova-launcher/main/src/renderer/icon.png" alt="Nova Launcher" width="128" height="128">
-</p>
-
 <h1 align="center">Nova Launcher</h1>
 
 <p align="center">
