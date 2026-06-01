@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="src/renderer/icon.png" alt="Nova Launcher" width="128" height="128">
-</p>
 
 <h1 align="center">Nova Launcher</h1>
 
