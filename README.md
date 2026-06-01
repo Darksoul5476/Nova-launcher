@@ -11,7 +11,7 @@
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue?style=flat-square" alt="Platforms">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License">
-  <a href="https://discord.gg/WhDS7YEp5q">
+  <a href="https://discord.gg/HZeXx4MXB">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-7289da?style=flat-square&logo=discord" alt="Discord">
   </a>
 </p>
@@ -72,4 +72,4 @@ cd "$(dirname "$0")"
 Nova Launcher is not affiliated with Mojang, Microsoft, Modrinth, CurseForge, or MCPEDL. Minecraft is a registered trademark of Mojang/Microsoft. This software is proprietary and does not collect any personal data.
 
 🔗 Links
-<p align="center"> <a href="https://github.com/Darksoul5476/Nova-launcher"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://discord.gg/WhDS7YEp5q"> <img src="https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord" alt="Discord"> </a> </p>
+<p align="center"> <a href="https://github.com/Darksoul5476/Nova-launcher"> <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub"> </a> <a href="https://discord.gg/HZeXx4MXBZ"> <img src="https://img.shields.io/badge/Discord-Join%20Server-7289da?style=for-the-badge&logo=discord" alt="Discord"> </a> </p>
