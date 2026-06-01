@@ -227,7 +227,7 @@ Fix: Check the Console tab for error details. Click 🔍 Analyze Crash for autom
 Minecraft session tokens expire after some time.
 
 Fix: Log out and log back in on the Accounts page to refresh your session.
-Linux: App Won't Start
+Linux: App Won't Start 
 
 Fix: Ensure all dependencies are installed:
 bash
